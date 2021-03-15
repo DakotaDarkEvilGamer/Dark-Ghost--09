@@ -1,0 +1,39 @@
+(Utility Commands)
+
+cmd: gamble
+
+cmd: balance
+
+cmd: deposit
+
+cmd: daily
+
+cmd: withdraw
+
+cmd: snipe
+
+cmd: beg
+
+cmd: work
+
+cmd: give
+
+cmd: shop
+
+cmd: jobs
+
+cmd: buy
+
+cmd: verification-settings
+
+cmd: wl-settings
+
+cmd: ticket-settings
+
+cmd: start-ticket 
+
+cmd: rank 
+
+cmd: report 
+
+cmd: suggest/suggestion 
