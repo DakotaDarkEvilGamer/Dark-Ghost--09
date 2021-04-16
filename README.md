@@ -1,6 +1,7 @@
 # Dark-Ghost--09
 We are Dark Ghost we are team that have great abilites.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 If your looking for our stuff follow this screenshot
 
