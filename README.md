@@ -6,10 +6,12 @@ We are Dark Ghost we are team that have great abilites.
 If your looking for our stuff follow this screenshot
 
 
-![image](https://user-images.githubusercontent.com/78670245/115052957-8ea9fa80-9eac-11eb-8330-8b7d3bb0c982.png)
+![image](https://user-images.githubusercontent.com/78670245/115121302-f1b89180-9f7f-11eb-89f2-896f2ca2928e.png)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DG-Games = Darl Ghost Made Games
 
 DG-Hacks = Dark Ghost Made Hacks
 
